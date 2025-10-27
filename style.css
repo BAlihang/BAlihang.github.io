@@ -1,0 +1,21 @@
+#college{
+  color: maroon;
+}
+
+body{
+  background-color: black;
+  color: lightgray;
+  font-size: 20px;
+}
+h2{
+  color: antiquewhite;
+}
+.high{
+ color:yellow;
+}
+.name{
+  color: white;
+}
+ul{
+  font-size: 15px;
+}
